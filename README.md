@@ -9,7 +9,7 @@ I noticed that `lerna bootstrap` does not install dependencies are not installed
 Let's say I have two projects in my repo:
 ```
 repo
-|_ main_project
+|_ main-project
 |_direct-dependency
 ```
 
